@@ -1,30 +1,30 @@
-# 🚗 ApnaGarage
+# ApnaGarage
 
 **ApnaGarage** is a Java-based command-line application built to practice Core Java and object-oriented programming through a garage-related project.
 The project serves as a foundation for learning how to model real-world entities, organize program logic, and build maintainable Java applications.
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Apply Core Java concepts to a practical project.
 * Understand object-oriented programming through real-world modeling.
 * Practice writing structured, readable Java code.
 * Build a foundation for extending the project with more advanced features and Low-Level Design (LLD).
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Language:** Java
 * **Application Type:** Command-Line Interface (CLI)
 * **IDE:** IntelliJ IDEA
 * **Version Control:** Git and GitHub
 
-## ✨ Project Highlights
+## Project Highlights
 
 * Garage-related application developed using Java.
 * Command-line-based interaction.
 * Practical application of Java programming fundamentals.
 * Foundation for further improvements in object-oriented design and software architecture.
 
-## 💡 Concepts Explored
+## Concepts Explored
 
 This project is intended to support hands-on practice with Core Java, including:
 
@@ -35,7 +35,7 @@ This project is intended to support hands-on practice with Core Java, including:
 * Code organization and modularity
 * Java collections
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ cd ApnaGarage
 
 The exact compilation and execution commands depend on the package structure and entry-point class in the project.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Potential improvements for future versions include:
 
@@ -81,7 +81,7 @@ Potential improvements for future versions include:
 
 These are planned enhancements, not claims about existing functionality.
 
-## 👩‍💻 Author
+## Author
 **Mrunmayee Londhe**
 
 GitHub: [Mrun-mayee3](https://github.com/Mrun-mayee3)
